@@ -5,7 +5,8 @@ Terdapat 4 class (Seniman, Pelukis, Pemusik, Material). Seniman sebagai parent, 
 didalam keempat class terdapat method addData untuk menginput data dari seniman, lukisan/musik dan material yang digunakan
 dimain sebelum menambahkan data inputan dari user terdapat inputan data statis 
 
-    ![](Screenshot\DesainTp3.png)
+<img width="781" height="705" alt="DesainTP3" src="https://github.com/user-attachments/assets/0331798d-353e-407f-93c2-42414de7cfc0" />
+
     
 
     
