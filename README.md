@@ -1,4 +1,4 @@
-Saya Firda Ridzki Utami dengan NIM 2401626 mengerjakan TP3 dalam Praktikum mata kuliah DPBO untuk keberkahannya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan
+Saya Firda Ridzki Utami dengan NIM 2401626 mengerjakan TP3 dalam Praktikum mata kuliah DPBO untuk keberkahannya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aaminn
 
 Flow kode TP3 bertema Seni :
 Dalam desain ini terdapat 4 class utama: Seniman, Pelukis, Pemusik, Pematung, dan tambahan class Material yang composite dengan class Pelukis, Pemusik, Pematung.
